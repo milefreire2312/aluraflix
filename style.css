@@ -3,57 +3,57 @@ body {
     color: white;
     margin: 0px;
     font-family: "Outfit", sans-serif;
-    }
-    
-    header {
+}
+
+header {
     border-bottom: solid 2px rgb(32, 98, 185);
     padding: 20px;
     font-size: 32px;
     color: rgb(91, 63, 121);
-    }
-    
-    section {
+}
+
+section {
     background-color: rgb(115, 54, 180);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    }
-    
-    .chamada-texto {
+}
+
+.chamada-texto {
     margin-right: 20px;
-    }
-    
-    h1 {
+}
+
+h1 {
     font-size: 40px;
-    }
-    
-    p {
+}
+
+p {
     font-size: 20px;
-    }
-    
-    .categoria-videos {
+}
+
+.categoria-videos {
     display: flex;
     overflow-x: auto;
     gap: 10px;
-    }
+}
 
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
 }
-    
-    .categoria-videos img {
+
+.categoria-videos img {
     opacity: 0.5;
     height: 200px;
 }
-    
-    .categoria-videos img:hover {
+
+.categoria-videos img:hover {
     opacity: 1.0;
     border: 5px solid green;
 }
 
-    .categoria h2 {
-        color: blue(32, 98, 185);
+.categoria h2 {
+    color: rgb(32, 98, 185);
 }
